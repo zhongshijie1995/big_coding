@@ -9,4 +9,4 @@
 3. 登陆你的`LeetCode`账号
     - ![](./images/sign-in.png)
 4. 打开任意1个代码文件，点击`Summbit`或`Test`进行提交或调试
-    - - ![](./images/code.png)
+    - ![](./images/code.png)
