@@ -8,5 +8,6 @@
     - ![](./images/leetcode-cn.png)
 3. 登陆你的`LeetCode`账号
     - ![](./images/sign-in.png)
-4. 打开任意1个代码文件，点击`Summbit`或`Test`进行提交或调试
+4. 在扩展设置中`leetcode.workspaceFolder`的值为当前工作空间的目录，作为保存代码文件的目录
+5. 打开任意1个代码文件，点击`Summbit`或`Test`进行提交或调试
     - ![](./images/code.png)
